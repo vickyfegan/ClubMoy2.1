@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ClubMoy</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="moy">moy</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="what_is_your_involvement_with_the_moy_club">What is your involvement with the Moy Club</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_password1">Enter Password</string>
+    <string name="login1">LOGIN</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="sign_up">SIGN UP</string>
+
+    `
+</resources>
